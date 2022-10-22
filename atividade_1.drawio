@@ -1,1 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2022-10-22T01:49:22.982Z" agent="5.0 (Windows)" version="20.5.0" etag="qBPZKtJ3vJju17DFftWk" type="github"><diagram id="zRy4J0D4JqakwkJxswGj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-22T02:21:53.430Z" agent="5.0 (Windows)" etag="byOaBMM2ezAP4MeBSrbT" version="20.5.0" type="github">
+  <diagram id="zRy4J0D4JqakwkJxswGj" name="Página-1">
+    <mxGraphModel dx="1108" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HuaAosr_Xlxfe8lv8KTU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="HuaAosr_Xlxfe8lv8KTU-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuaAosr_Xlxfe8lv8KTU-2" value="&lt;div&gt;INÍCIO DO CADASTRO&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuaAosr_Xlxfe8lv8KTU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="70" as="sourcePoint" />
+            <mxPoint x="250" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuaAosr_Xlxfe8lv8KTU-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="HuaAosr_Xlxfe8lv8KTU-5" target="HuaAosr_Xlxfe8lv8KTU-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuaAosr_Xlxfe8lv8KTU-22" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="HuaAosr_Xlxfe8lv8KTU-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuaAosr_Xlxfe8lv8KTU-5" value="IDADE VÁLIDA? (MAIOR DE 18 ANOS)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HuaAosr_Xlxfe8lv8KTU-17" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="HuaAosr_Xlxfe8lv8KTU-15" target="HuaAosr_Xlxfe8lv8KTU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuaAosr_Xlxfe8lv8KTU-15" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="180" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HuaAosr_Xlxfe8lv8KTU-19" value="NÃO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuaAosr_Xlxfe8lv8KTU-20" value="INSERIR IDADE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuaAosr_Xlxfe8lv8KTU-23" value="SIM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuaAosr_Xlxfe8lv8KTU-27" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="HuaAosr_Xlxfe8lv8KTU-25" target="HuaAosr_Xlxfe8lv8KTU-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuaAosr_Xlxfe8lv8KTU-32" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="HuaAosr_Xlxfe8lv8KTU-25" target="HuaAosr_Xlxfe8lv8KTU-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuaAosr_Xlxfe8lv8KTU-25" value="A LISTA POSSUI 100 NOMES?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HuaAosr_Xlxfe8lv8KTU-30" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="HuaAosr_Xlxfe8lv8KTU-26" target="HuaAosr_Xlxfe8lv8KTU-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuaAosr_Xlxfe8lv8KTU-26" value="CADASTRO NÃO PERMITIDO POR EXCESSO DE CONTINGENTE" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="361" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuaAosr_Xlxfe8lv8KTU-28" value="SIM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="370" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuaAosr_Xlxfe8lv8KTU-29" value="FIM" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuaAosr_Xlxfe8lv8KTU-34" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="HuaAosr_Xlxfe8lv8KTU-31" target="HuaAosr_Xlxfe8lv8KTU-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuaAosr_Xlxfe8lv8KTU-31" value="CADASTRE-SE AQUI" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuaAosr_Xlxfe8lv8KTU-33" value="FIM DO CADASTRO" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuaAosr_Xlxfe8lv8KTU-35" value="NÃO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="370" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
