@@ -25,6 +25,6 @@ console.log (Caracteres)
 if(Caracteres.length>3){
     console.log("Nome da peça válido")
 }else{
-    console.log("Nome da peça precisa ter no mínimo 3 caracteres")
+    console.log("Nome da peça precisa ter mais de 3 caracteres")
 }
 
