@@ -22,7 +22,7 @@ for (let contador = 0; contador <= NumeroDeAlunos; contador++){
     }
 }*/
 
-let NumeroDeAlunos = 10
+/*let NumeroDeAlunos = 10
 
 let contador = 0
 
@@ -40,8 +40,12 @@ while (contador <= NumeroDeAlunos){
     }
 
     contador++
-}
+}*/
 
+let NomeDeAlunos = ["Marcos","José","Felipe","Lucas"]
+ for (let nome of NomeDeAlunos){
+    console.log(`Esta pessoa se chama ${nome}`)
+ }
 
 
 
