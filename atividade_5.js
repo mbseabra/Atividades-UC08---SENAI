@@ -42,9 +42,18 @@ while (contador <= NumeroDeAlunos){
     contador++
 }*/
 
-let NomeDeAlunos = ["Marcos","José","Felipe","Lucas"]
+/*let NomeDeAlunos = ["Marcos","José","Felipe","Lucas"]
  for (let nome of NomeDeAlunos){
     console.log(`Esta pessoa se chama ${nome}`)
+ }*/
+
+ let idade = 27
+ let ingresso = true
+
+ if(idade >= 18 && ingresso == true){
+    console.log("Bem vindo à festa!")
+ }else{
+    console.log("Entrada não permitida")
  }
 
 
