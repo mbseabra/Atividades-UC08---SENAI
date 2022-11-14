@@ -5,7 +5,7 @@
 //Se o número for ímpar, escreva ‘ímpar’ e o número correspondente  
 
 //Se o número for zero, escreva ‘zero’ e o número correspondente 
-/*
+
 let NumeroDeAlunos = 10
 
 for (let contador = 0; contador <= NumeroDeAlunos; contador++){
@@ -20,9 +20,9 @@ for (let contador = 0; contador <= NumeroDeAlunos; contador++){
     else{
         console.log(`O número ${contador} é ÍMPAR`)//interpolação
     }
-}*/
+}
 
-/*let NumeroDeAlunos = 10
+let NumeroDeAlunos = 10
 
 let contador = 0
 
@@ -40,12 +40,12 @@ while (contador <= NumeroDeAlunos){
     }
 
     contador++
-}*/
+}
 
-/*let NomeDeAlunos = ["Marcos","José","Felipe","Lucas"]
+let NomeDeAlunos = ["Marcos","José","Felipe","Lucas"]
  for (let nome of NomeDeAlunos){
     console.log(`Esta pessoa se chama ${nome}`)
- }*/
+ }
 
  let idade = 27
  let ingresso = true
